@@ -1,4 +1,5 @@
 #Original Owner of this project is -> HashLips
+Huge Thanks to HashLips for his contents
 
 Important: There is a new repo for this code.
 [https://github.com/HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
