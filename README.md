@@ -52,4 +52,4 @@ It is possible to provide a percentage at which e.g. a rare item would contain a
 This allows for more fine grained control over how much randomness there should be during the generation process, and allows a combination of common and rare parts.
 
 # Development suggestions
-- Preferably use VSCode with the prettifier plugin for a consistent coding style (or equivalent js formatting rules).
+- Preferably use VSCode with the prettifier plugin for a consistent coding style (or equivalent js formatting rules)
